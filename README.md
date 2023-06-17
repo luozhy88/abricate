@@ -1,5 +1,5 @@
 # abricate
-1. run docker version of abricate  
+1. run docker version of abricate  33site
 2. download the docker version from https://quay.io/repository/biocontainers/abricate  
 3. docker pull quay.io/biocontainers/abricate:1.0.1--ha8f3691_1  
 4. mount the local folder to the container folder following the commands below  
